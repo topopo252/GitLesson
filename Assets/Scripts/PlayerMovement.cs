@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour //クラス名をPlayerMovementに変更すること
 {
     [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] private float jumpSpeed = 15f;
+    [SerializeField] private float jumpSpeed = 17f;
 
     private Rigidbody2D rb;
     private bool isGrounded;
