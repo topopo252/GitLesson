@@ -1,0 +1,39 @@
+# Unity が自動生成するフォルダ
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / エディタ
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.suo
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# ビルド成果物
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crashlytics
+crashlytics-build.properties
+sysinfo.txt
